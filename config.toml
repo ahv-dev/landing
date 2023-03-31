@@ -1,5 +1,5 @@
 title = "Atelier Horizon Verre"
-baseURL = "https://aterlierhorizonverre.fr"
+baseURL = "https://atelierhorizonverre.fr"
 tags = ["landing"]
 languageCode = "fr-FR"
 config = "config.toml"
